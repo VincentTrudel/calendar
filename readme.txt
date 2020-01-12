@@ -8,4 +8,4 @@ Ex: 23/01/1991
 
 2. Programs then asks if you want to see whole month calendar
 
-type y or n
+type o for yes (oui in french) or n for no
